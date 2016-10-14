@@ -1,0 +1,1 @@
+include ':app', ':fragmentation_swipeback', ':fragmentation', ':Fragmentation_demo', ':JieCaoVideoPlayer', ':jcvideoplayer-lib', ':xutils', ':MaterialRefreshLayout_lib', ':listviewandrecycleview'
